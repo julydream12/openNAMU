@@ -1,0 +1,83 @@
+html, body {
+    background-color: #272727;
+    color: #ddd;
+}
+
+.navbar, .navbar-burger, a.dropdown-item {
+    background-color: #272727;
+}
+
+a.navbar-item, a.navbar-link, a.dropdown-item, .navbar-dropdown, .navbar-menu, .dropdown-item, .navbar-divider, .dropdown-divider {
+    color: #ddd;
+    background-color: #272727;
+}
+
+.navbar-burger span {
+    background-color: #ddd;
+}
+
+a.navbar-item:hover, a.navbar-link:hover, a.dropdown-item:hover, .navbar-item.has-dropdown:hover .navbar-link, .navbar-item.has-dropdown.is-active .navbar-link {
+    background-color: #444;
+    color: #eee;
+    border-color: #aaa;
+}
+
+.hero.is-primary, .nav_bar {
+    background-color: #53968d;
+}
+
+.input.is-primary, .textarea.is-primary {
+    border-color: #53968d;
+}
+
+.navbar-item #search_input {
+    background-color: #444;
+    color: #ddd;
+}
+
+.navbar-item button, .navbar-item .button {
+    border-color: #53968d;
+    background-color: #444;
+    color: #ddd;
+}
+
+.button { 
+    border-color: #464646;
+}
+
+.button:hover {
+    border-color: #a4a4a4;
+}
+
+#redirect, .opennamu_category {
+    border-color: #6d6d6d;
+    color: #ddd;
+}
+
+a {
+    color: #7CACF8;
+}
+
+a:hover {
+    color: #98bdf8;
+}
+
+.navbar-divider, hr {
+    border-color: #555;
+}
+
+td {
+    border-color: #444;
+}
+
+h1, h2, h3, h4, h5, h6, #toc {
+    border-color: #6d6d6d;
+}
+
+.opennamu_link_out {
+    color: #0a0;
+}
+
+.footer {
+    background-color: #444;
+}
